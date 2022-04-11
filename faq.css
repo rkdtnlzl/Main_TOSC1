@@ -267,6 +267,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_bg .header{
+    flex-direction: column;
     position: sticky;
     top:20px;
     display: flex;
