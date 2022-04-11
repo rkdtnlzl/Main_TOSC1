@@ -135,6 +135,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .left_title{
+    width: 60px;
     height: 151px;
     font-weight: 800;
     font-family: 'NanumSquare';
