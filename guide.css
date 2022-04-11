@@ -670,9 +670,11 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 .image1{
     margin-top: 62px;
+    display: flex;
 }
 
 .TOSC_logo{
+    left: 70%;
     width: 58px;
     height: 27px;
     background-image: url("images/tosc.logo_1.svg");
@@ -691,7 +693,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
       /*요 부분 지우니까 스크롤 또 없어짐*/
     height: 602px;
     padding-top: 5px;    
-    display: flex;
 }
 
 .tap1{
