@@ -744,8 +744,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*[수정] margin-top */ 
 .grade_table{
     background-image: url("images/grade_guide_1.svg");
-    background-size:contain;
-    background-position: 50% 50%;
     margin-top: 25px;
     height:185px;
     width: 135px;
