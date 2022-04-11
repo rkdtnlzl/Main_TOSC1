@@ -298,8 +298,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_bg .nav ul .FAQ {
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:15px;
+    padding-right:15px;
 }
 
 .intro_bg .nav ul li a{
