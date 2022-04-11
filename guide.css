@@ -691,11 +691,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 /*[수정] padding-top height*/ 
-.grade_exp{
-      /*요 부분 지우니까 스크롤 또 없어짐*/
-    height: 602px;
-    padding-top: 5px;    
-}
+
 
 .tap1{
     margin-top: 16px;
