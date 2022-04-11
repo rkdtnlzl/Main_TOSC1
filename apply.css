@@ -138,7 +138,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     height: 151px;
     font-weight: 800;
     font-family: 'NanumSquare';
-    margin-left:125px;
+    margin-left:40px;
 }
 .left_title2{
     height: 151px;
@@ -149,7 +149,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .tosc_side_logo_1 {
-    width: 200px;
+    width: 0px;
     height: 600px;
     background-image: url("images/tosc_side_logo2.png");
     position:absolute;
@@ -159,7 +159,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 }
 .tosc_side_logo_2 {
-    width: 200px;
+    width: 0px;
     height: 600px;
     background-image: url("images/tosc_side_logo2.png");
     position:absolute;
@@ -174,7 +174,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 .num1{
     width: 36px;    
-    font-size: 53px;
+    font-size: 15px;
     font-weight: 800;
     font-family: 'RockwellStd', sans-serif;
     color: #585959;
@@ -182,10 +182,9 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 .tap{
     margin-top: 16px;
-    width: 293px;
+    width: 211px;
     text-align: left;
-
-    font: normal normal 800 50px/60px NanumSquare;
+    font: normal normal 800 17px/30px NanumSquare;
     letter-spacing: 0px;
     color: #464646;
     opacity: 1; 
@@ -193,13 +192,14 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 .price1{
     display: flex;
 }
-.tap1{
-    margin-top: 15px;
+.tap{
+    margin-top: 16px;
+    width: 211px;
     text-align: left;
-    font: normal normal 800 39px/44px NanumSquare;
-    letter-spacing: 0.24px;
+    font: normal normal 800 17px/30px NanumSquare;
+    letter-spacing: 0px;
     color: #464646;
-    opacity: 1;
+    opacity: 1; 
 }
 #go_test{
     margin-left: 540px;
@@ -310,7 +310,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 812px;
     height: 222px;
     margin-top: 25.24px;
-    background-image: url("images/price_table.png");
+    background-image: url("images/apply_chart1.png");
 }
 .step_table{
     width: 865px;
