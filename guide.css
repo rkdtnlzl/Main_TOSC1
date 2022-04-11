@@ -779,8 +779,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .card_wrap{
-    width: 220px;
-    height: 129px;
+    width: 233px;
+    height: 100px;
     margin-top: 18px;
     margin-left: -16px;
     background-image: url("images/test_card_1.svg");
