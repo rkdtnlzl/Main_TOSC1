@@ -110,13 +110,13 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 .apply_exp{
     width: 500px;
-    height: 3217px;
+    height: 2217px;
     padding-top:96px;
     display: flex;
 }
 .rules_exp{
-    width: 1640px;
-    height: 4000px;
+    width: 840px;
+    height: 6000px;
     padding-top:129px;
     display: flex;
 }
