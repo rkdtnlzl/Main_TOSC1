@@ -180,7 +180,7 @@
     
     .container .hero h1{
         text-align: left;
-        font-size: 13vh;
+        font-size: 6vh;
         margin-bottom: 20px;
         line-height:100%;
         
@@ -188,7 +188,7 @@
     
     .container .hero h3{
         text-align: left;
-        font-size: 30px;
+        font-size: 15px;
         margin-bottom: 20px;
     }
     
