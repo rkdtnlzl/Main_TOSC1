@@ -768,7 +768,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 .dp{
     text-align: left;
-    font: normal normal 800 18px/35px NanumSquare;
+    font: normal normal 800 8px/25px NanumSquare;
     letter-spacing: 0.19px;
     color: #464646;
     text-shadow: inset 0px 3px 6px #46464629;
@@ -880,7 +880,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 #t3{
     margin-top: 23px;
     text-align: center;
-    font: normal normal 800 7px/13px NanumSquare;
+    font: normal normal 800 5px/13px NanumSquare;
     letter-spacing: 0px;
     color: #6C6C6C;
     opacity: 1;
