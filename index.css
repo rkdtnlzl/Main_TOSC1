@@ -123,19 +123,20 @@
         height: 100vh;
     }
     .nav {
-        text-align: right;
-        margin-top: 70px;
+        text-align: center;
+        margin-top: 30px;
     }
     
     .container .header{
-        display: flex;
+        flex-direction: column;
+        position: sticky;
         top:20px;
+        display: flex;
         justify-content: space-between;
-        padding-left:6%;
-        padding-right:6%;
+        padding-left:2%;
+        padding-right:2%;
         height:80px;
         align-items: center;
-        position: sticky;
     }
     
     .container .nav ul li{
@@ -146,11 +147,9 @@
         background-color: none;
         border-color: white;
         margin-top: 10px;
-        padding-left:17px;
-        padding-right:17px;
         border-radius: 20px;
         border-width:1px;
-        font-size:20px;
+        font-size:9px;
         font-weight:bold;
         position:relative;
         top:-8px;
