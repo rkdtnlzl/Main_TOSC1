@@ -773,7 +773,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 .que_table{
     width: 176px;
     height: 147px;
-    margin-left: 50px;
+    margin-left: 5px;
     background-image: url("images/apply_chart_1.png") ;
 }
 .ID_table{
@@ -785,7 +785,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 .prog_table{
     width: 176px;
     height: 78px;
-    margin-left: 12px;
+    margin-left: 5px;
     background-image: url("images/test_card2.png") ;
 
 }
