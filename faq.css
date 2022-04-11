@@ -644,7 +644,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .copyrights {
-    font: normal normal 2px/12px Gotham;
+    font: normal normal 1px/9px Gotham;
     text-align: center;
     color: #6d6c6c;
     justify-content: space-between;
@@ -659,8 +659,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .copy_wrap{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin: 488px auto auto 0;
 
 }
