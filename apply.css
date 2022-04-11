@@ -605,7 +605,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     height: 151px;
     font-weight: 800;
     font-family: 'NanumSquare';
-    margin-left:100px;
+    margin-left:40px;
     margin-top: 80px;
 }
 
@@ -652,15 +652,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 .price1{
     display: flex;
-}
-.tap{
-    margin-top: 16px;
-    width: 211px;
-    text-align: left;
-    font: normal normal 800 17px/30px NanumSquare;
-    letter-spacing: 0px;
-    color: #464646;
-    opacity: 1; 
 }
 #go_test{
     margin-left: 540px;
@@ -751,7 +742,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 #tap5-0{
     margin-top: 31.34px;
     text-align: left;
-    font: normal normal 800 25px/28px NanumSquare;
+    font: normal normal 800 13px/19px NanumSquare;
     letter-spacing: 0.16px;
     color: #464646;
     opacity: 1;
