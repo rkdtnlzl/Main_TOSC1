@@ -252,7 +252,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 .right_tap{
     text-align: left;
-    font: normal normal 800 30px/35px NanumSquare;
+    font: normal normal 800 15px/25px NanumSquare;
     letter-spacing: 0.19px;
     color: #464646;
     opacity: 1;
@@ -307,8 +307,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 
 .price_table{
-    width: 812px;
-    height: 222px;
+    width: 162px;
+    height: 44px;
     margin-top: 25.24px;
     background-image: url("images/apply_chart1.png");
 }
