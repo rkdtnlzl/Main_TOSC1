@@ -445,7 +445,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 @media (max-width: 768px){
     html, body {
-        max-width: 100%;
         overflow-x: hidden;
     }
     @import
