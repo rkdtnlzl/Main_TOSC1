@@ -677,14 +677,14 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     left: 70%;
     width: 58px;
     height: 27px;
-    background-image: url("images/tosc_logo_1.png");
+    background-image: url("images/tosc_logo_1.svg");
     opacity: 1;
 }
 
 .SJU_logo{
     width: 97px;
     height: 26px;   
-    background-image: url("images/sanhak_logo.png");
+    background-image: url("images/sanhak_logo.svg");
     opacity: 1;
 }
 
@@ -742,7 +742,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 /*[수정] margin-top */ 
 .grade_table{
-    background-image: url("images/grade_guide_1.png");
+    background-image: url("images/grade_guide_1.svg");
     background-size:contain;
     background-position: 50% 50%;
     margin-top: 25px;
@@ -783,7 +783,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     height: 129px;
     margin-top: 18px;
     margin-left: -16px;
-    background-image: url("images/test_card_1.png");
+    background-image: url("images/test_card_1.svg");
 }
 
 .exp{
@@ -847,7 +847,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 135px;
     height: 180px;
     margin-top: 77px;
-    background-image: url("images/sejong_map_1.png");
+    background-image: url("images/sejong_map_1.svg");
 }
 
 .copyrights {
