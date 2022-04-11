@@ -580,7 +580,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .tosc_side_logo_1 {
-    width: 3px;
+    width: 0px;
     height: 600px;
     background-image: url("images/tosc_side_logo2.png");
     position:absolute;
@@ -680,7 +680,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .SJU_logo{
-    margin-right: 80px;
     width: 97px;
     height: 26px;   
     background-image: url("images/sanhak_logo.png");
