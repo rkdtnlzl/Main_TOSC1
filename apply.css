@@ -1,6 +1,10 @@
 @import
 url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
+html, body { overflow-x: hidden;}
+    @import
+url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
 @font-face {
     font-family: 'Gotham-Bold';
     src: url("font/Gotham-Bold.otf");
@@ -11,12 +15,17 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     src:url("font/RockwellStd.otf");
 }
 
-
-*{
+* {
     margin:0;
     padding:0;
 }
 
+
+.wrap {
+    margin:0;
+    width:100%;
+    height:100%;
+}
 .intro_bg{
     background-image: url("images/apply_bg.png");
     background-size: cover;
@@ -25,16 +34,20 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_bg .header{
+    flex-direction: column;
     position: sticky;
     top:20px;
     display: flex;
     justify-content: space-between;
-    padding-left:6%;
-    padding-right:6%;
+    padding-left:2%;
+    padding-right:2%;
     height:80px;
     align-items: center;
 }
-
+.nav {
+    text-align: center;
+    margin-top: 30px;
+}
 .intro_bg .nav ul li{
     display: inline-block;
     margin: 0 10px;
@@ -42,21 +55,18 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     border-style: solid;
     background-color: none;
     border-color: white;
-    padding: 5px;
-    padding-left:17px;
-    padding-right:17px;
-    padding-bottom:5px;
+    margin-top: 10px;
     border-radius: 20px;
     border-width:1px;
-    font-size:20px;
+    font-size:9px;
     font-weight:bold;
     position:relative;
     top:-8px;
 }
 
 .intro_bg .nav ul .FAQ {
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:25px;
+    padding-right:25px;
 }
 
 .intro_bg .nav ul li a{
@@ -68,44 +78,47 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     color: purple;
 }
 
-.APPLY {
+.GUIDE {
     background-color: white;
 }
-#apply{
+#guide{
     color: #464646;
 }
+
 .intro_title{
-    margin-top:350px;
+    margin-top:180px;
     padding-left:7%;
     padding-bottom: 3%;
 }
 
 .t1{
     width: 100%;
-    height: 120px;
+    height: 60px;
 }
 .t1 > h1{
-    font-size: 98px;
+    font-size: 40px;
     font-family: 'Gotham-Bold';
     text-align: left;
-    font-weight: 700;
+    font-weight: 500;
     color: #FFFFFF
 }
 
 .t2{
     width: 100%;
     height: 100%;
-    margin-top: 17px;
 }
 
 .t2 > p{
     text-align: left;
-    font-size: 37px;
+    font-size: 20px;
     font-weight: 500;
     font-family: 'NanumSquare-Bold';
     letter-spacing: 0px;
     color: #FFFFFF;
-    margin-top: 10px;
+    margin-top: 7px;
+}
+.guide_wrap{
+    margin:auto;
 }
 
 .apply_exp{
