@@ -235,14 +235,14 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .text1 {
-    font: normal normal normal 20px/35px NanumSquare;
+    font: normal normal normal 13px/35px NanumSquare;
     font-weight: 400;
     letter-spacing: 0.24px;
     color: #464646;
 }
 
 .text1 > p > span{
-    font: normal normal 800 20px/35px NanumSquare;
+    font: normal normal 800 13px/35px NanumSquare;
     letter-spacing: 0.24px;
     color: #464646;
 }
