@@ -519,6 +519,10 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 .intro_bg .nav ul li a:hover{
     color: purple;
 }
+.intro_bg .nav {
+    margin-right: -20px;
+    margin-top: 70px;
+}
 
 .GUIDE {
     background-color: white;
