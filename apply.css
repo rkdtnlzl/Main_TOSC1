@@ -590,7 +590,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 .rules_exp{
     width: 1640px;
-    height: 3000px;
+    height: 2800px;
     padding-top: 130px;
     display: flex;
 }
@@ -654,7 +654,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     display: flex;
 }
 #go_test{
-    margin-left: 50px;
+    margin-left: -50px;
     margin-right: 50px;
     margin-top: 97px;
     font: normal normal 800 13px/20px NanumSquare;
