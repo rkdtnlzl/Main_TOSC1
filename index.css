@@ -204,10 +204,10 @@
     
     
     .go_homepage a{
-        font-size: 13px;
+        font-size: 11px;
         position : fixed;
         text-decoration-line:none;
-        right: 65px;
+        right: 15px;
         bottom: 30px;
         color: white;
         text-align: right;
