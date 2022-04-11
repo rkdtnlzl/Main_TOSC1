@@ -359,7 +359,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*[수정] height, padding-top*/ 
 .test_exp{
     width: 500px;   
-    height: 1130px;
+    height: 930px;
     padding-top:109px;
     display: flex;
 
