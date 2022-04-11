@@ -35,7 +35,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     align-items: center;
 }
 .nav {
-    margin-left: 80px;
+    text-align: right;
 }
 .intro_bg .nav ul li{
     display: inline-block;
