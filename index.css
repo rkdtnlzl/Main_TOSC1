@@ -197,14 +197,14 @@
     .copyright {
         position: fixed;
         bottom: 30px;
-        font-size: 15px;
+        font-size: 1px;
         text-align:left;
         opacity: 0.5;
     }
     
     
     .go_homepage a{
-        font-size: 22px;
+        font-size: 9px;
         position : fixed;
         text-decoration-line:none;
         right: 125px;
