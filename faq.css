@@ -272,8 +272,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     top:20px;
     display: flex;
     justify-content: space-between;
-    padding-left:6%;
-    padding-right:6%;
+    padding-left:2%;
+    padding-right:2%;
     height:80px;
     align-items: center;
 }
@@ -298,8 +298,8 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_bg .nav ul .FAQ {
-    padding-left:15px;
-    padding-right:15px;
+    padding-left:25px;
+    padding-right:25px;
 }
 
 .intro_bg .nav ul li a{
