@@ -487,6 +487,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 .intro_bg .nav {
     margin-top: 70px;
+    text-align: right;
 }
 .intro_bg .nav ul li{
     display: inline-block;
