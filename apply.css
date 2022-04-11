@@ -762,7 +762,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 162px;
     height: 44px;
     margin-top: 25.24px;
-    background-image: url("images/apply_chart1.png");
+    background-image: url("images/apply_chart1.svg");
 }
 .step_table{
     width: 173px;
@@ -774,26 +774,26 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 176px;
     height: 147px;
     margin-left: 5px;
-    background-image: url("images/apply_chart_1.png") ;
+    background-image: url("images/apply_chart_1.svg") ;
 }
 .ID_table{
     width: 162px;
     height: 79px;
     margin-top: 16.34px;
-    background-image: url("images/ID_table_1.png") ;
+    background-image: url("images/ID_table_1.svg") ;
 }
 .prog_table{
     width: 176px;
     height: 78px;
     margin-left: 5px;
-    background-image: url("images/test_card2.png") ;
+    background-image: url("images/test_card_1.svg") ;
 
 }
 .cheat_table{
     width: 162px;
     height: 35px;
     margin-top: 16.34px;
-    background-image: url("images/cheat_table_1.png") ;
+    background-image: url("images/cheat_table_1.svg") ;
 }
 .step{
     text-align: left;

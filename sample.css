@@ -524,7 +524,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 162px;
     height: 44px;
     margin-top: 12px;
-    background-image: url("images/sample_test_1.png");
+    background-image: url("images/sample_test_1.svg");
 }
 
 .text3 {
@@ -544,19 +544,19 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     width: 162px;
     height: 41px;
     margin-top: 13px;
-    background-image: url("images/sample_chart_1.png");
+    background-image: url("images/sample_chart_1.svg");
 }
 .grade_table2{
     width: 162px;
     height: 41px;
     margin-top: 13px;
-    background-image: url("images/sample_chart_2.png");
+    background-image: url("images/sample_chart_2.svg");
 }
 .id_table{
     width: 162px;
     height: 18px;
     margin-top: 22px;
-    background-image: url("images/id_table_3.png");
+    background-image: url("images/id_table_3.svg");
 }
 #text2_1{
     margin-top: 50px;
@@ -597,6 +597,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 /*[수정]t3_10 추가 */ 
 #t3_10{
+    font-size: 15px;
     margin-top: 15px;
     display: flex;
 }
