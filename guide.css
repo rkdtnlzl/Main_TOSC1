@@ -476,18 +476,19 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_bg .header{
+    flex-direction: column;
     position: sticky;
     top:20px;
     display: flex;
     justify-content: space-between;
-    padding-left:6%;
-    padding-right:6%;
+    padding-left:2%;
+    padding-right:2%;
     height:80px;
     align-items: center;
 }
 .nav {
-    text-align: right;
-    margin-top: 70px;
+    text-align: center;
+    margin-top: 30px;
 }
 .intro_bg .nav ul li{
     display: inline-block;
@@ -497,19 +498,17 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     background-color: none;
     border-color: white;
     margin-top: 10px;
-    padding-left:17px;
-    padding-right:17px;
     border-radius: 20px;
     border-width:1px;
-    font-size:20px;
+    font-size:9px;
     font-weight:bold;
     position:relative;
     top:-8px;
 }
 
 .intro_bg .nav ul .FAQ {
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:25px;
+    padding-right:25px;
 }
 
 .intro_bg .nav ul li a{
@@ -529,27 +528,26 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .intro_title{
-    margin-top:350px;
+    margin-top:180px;
     padding-left:7%;
     padding-bottom: 3%;
 }
 
 .t1{
     width: 100%;
-    height: 120px;
+    height: 60px;
 }
 .t1 > h1{
     font-size: 50px;
     font-family: 'Gotham-Bold';
     text-align: left;
-    font-weight: 700;
+    font-weight: 500;
     color: #FFFFFF
 }
 
 .t2{
     width: 100%;
     height: 100%;
-    margin-top: 3px;
 }
 
 .t2 > p{
