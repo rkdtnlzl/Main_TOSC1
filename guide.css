@@ -673,7 +673,6 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .TOSC_logo{
-    left: 70%;
     width: 58px;
     height: 27px;
     background-image: url("images/tosc.logo_1.svg");
