@@ -601,14 +601,14 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 }
 
 .tp{
-    width: 25px;
-    height: 7px;
+    width: 23px;
+    height: 5px;
     background-image: url("images/underbar.png");
 }
 
 .num1{
     width: 36px;    
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 800;
     font-family: 'RockwellStd', sans-serif;
     color: #585959;
@@ -618,7 +618,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     margin-top: 16px;
     width: 211px;
     text-align: left;
-    font: normal normal 800 23px/30px NanumSquare;
+    font: normal normal 800 17px/30px NanumSquare;
     letter-spacing: 0px;
     color: #464646;
     opacity: 1; 
