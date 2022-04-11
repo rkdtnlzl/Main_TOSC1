@@ -444,10 +444,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*미디어 쿼리*/
 
 @media (max-width: 768px){
-    html, body {
-        max-width: 100%;
-        overflow-x: hidden;
-        }
+    html, body { overflow-x: hidden;}
     @import
 url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
