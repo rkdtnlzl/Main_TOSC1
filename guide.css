@@ -768,11 +768,19 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*[수정] padding-top */ 
 .date_place{
     width: 450px;
-    height: 400px;
+    height: 500px;
     padding-top: 150px;   
     display: flex;
 }
-
+.dp1{
+    margin-top: 10px;
+    text-align: left;
+    font: normal normal 800 8px/25px NanumSquare;
+    letter-spacing: 0.19px;
+    color: #464646;
+    text-shadow: inset 0px 3px 6px #46464629;
+    opacity: 1;
+}
 .dp{
     text-align: left;
     font: normal normal 800 8px/25px NanumSquare;
