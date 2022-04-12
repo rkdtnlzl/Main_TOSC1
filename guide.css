@@ -120,7 +120,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*[수정] height, padding-top*/ 
 .test_exp{
     width: 500px;   
-    height: 730px;
+    height: 1130px;
     padding-top:109px;
     display: flex;
 
@@ -244,7 +244,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 /*[수정] padding-top height*/ 
 .grade_exp{
       /*요 부분 지우니까 스크롤 또 없어짐*/
-    height: 1562px;
+    height: 1662px;
     padding-top: 120px;    
     display: flex;
 }
@@ -263,7 +263,7 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     position:absolute;
     left:50%;
     margin-left:-20%;
-    padding-top: 17px;
+    padding-top: 10px;
 }
 
 /*[수정] margin-top */ 
@@ -282,14 +282,12 @@ url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
     opacity: 1;
 }
 
-#text2_wrap{
-    display: flex; 
-}
+
 #text2-1{
     margin-right:31px;
 }
 #tap1{
-    margin-top: 52px;
+    margin-top: 30px;
 }
 
 /*[수정] margin-top */ 
